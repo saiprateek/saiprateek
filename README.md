@@ -42,7 +42,6 @@ I lead end-to-end solutions—system design, service implementation, CI/CD, infr
 - Terraform org modules — reusable modules for VPC, IAM, EKS, and monitoring
   - Repo: github.com/saiprateek/terraform-modules
 
-(Replace repo links above with your actual project repositories.)
 
 ---
 
