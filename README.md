@@ -2,7 +2,7 @@
 Solution Architect & Backend Engineer • Java · Go · Python · AWS  
 Designing scalable, secure cloud-native systems, building high-throughput backends, and driving platform engineering with Infrastructure-as-Code.
 
-[📫 Contact](mailto:your.email@example.com) · [LinkedIn](https://www.linkedin.com/in/saiprateek) · github.com/saiprateek
+[📫 Contact](mailto:saipratee66@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prateek-kumar-singh/) · github.com/saiprateek
 
 ---
 
@@ -47,9 +47,8 @@ I lead end-to-end solutions—system design, service implementation, CI/CD, infr
 ---
 
 ## Certifications & Education
-- AWS Certified Solutions Architect — Professional (recommended to list if you have it)
+- AWS Certified Solutions Architect — Associate Training
 - AWS Certified DevOps / Developer
-- Certified Kubernetes Application Developer (CKAD)
 
 ---
 
@@ -63,12 +62,8 @@ I lead end-to-end solutions—system design, service implementation, CI/CD, infr
 
 ## Want to collaborate?
 I’m open to architecture reviews, advisory work, and backend/platform engineering roles.  
-Email: your.email@example.com · GitHub: github.com/saiprateek · LinkedIn: linkedin.com/in/saiprateek
+Email: saiprateek66@gmail.com · GitHub: github.com/saiprateek · LinkedIn: linkedin.com/in/prateek-kumar-singh/
 
 ---
 
-## GitHub Profile Tips
-- Pin 4–6 repos that best show your architecture & backend skills.
-- Use a clear avatar and a banner that reflects professional branding.
-- Keep projects documented with READMEs and runnable examples.
-- Add a short professional bio (below) in your GitHub profile field to complement this README.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprateek&layout=compact" alt="Top Languages" />
