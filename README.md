@@ -3,7 +3,7 @@ Solution Architect & Backend Engineer • Java · Go · Python · AWS
 Designing scalable, secure cloud-native systems, building high-throughput backends, and driving platform engineering with Infrastructure-as-Code.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prateek-kumar-singh/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/2841472/sai-prateek) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-kumar-singh/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2841472/sai-prateek) 
 
 
 ---
