@@ -63,11 +63,9 @@ I lead end-to-end solutions—system design, service implementation, CI/CD, infr
 
 ## Want to collaborate?
 I’m open to architecture reviews, advisory work, and backend/platform engineering roles.  
-Email: saiprateek66@gmail.com · GitHub: github.com/saiprateek · LinkedIn: linkedin.com/in/prateek-kumar-singh/
+Email: saiprateek66@gmail.com
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprateek&layout=compact" alt="Top Languages" />
 
 
 # 💻 Tech Stack:
