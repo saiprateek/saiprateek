@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am currently  working on Springbot, Golang, Python, AWS, Entra ID, Devops, Agentic coding<br>
-I’m looking to collaborate on Golang, Java, Entra ID.<br>
-I am currently learning Kubernates.<br> 
-Ask me about AWS architecture and best practices, Identity and access management solutions, Secrets Management, IAM Process, OpenID &Oauth Fun Fact , learning, Hacks, best practices
+**Currently  working on** Springbot, Golang, Python, AWS, Entra ID, Devops, Agentic coding<br>
+**Looking to collaborate on** Golang, Java, Entra ID.<br>
+**Currently learning** Kubernates.<br>
+**Ask me** about AWS architecture and best practices, Identity and access management solutions, Secrets Management, IAM Process, OpenID &Oauth Fun Fact , learning, Hacks, best practices.
 
 
 ## 🌐 Socials:
